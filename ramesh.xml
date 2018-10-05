@@ -1,0 +1,12 @@
+
+<suite name="Ramesh">
+  <test  name="Chennapa">
+    <classes>
+      <class name="com.vasu.testng.AdminLoginTest"/>
+      <class name="com.vasu.testng.MultipleTestCases"/>
+      <class name="com.vasu.testng.BeforeAndAfterTest"/>
+      <class name="com.vasu.testng.FirsttestNgTest"/>
+      <class name="com.vasu.testng.Annotations"/>
+    </classes>
+  </test> 
+</suite> 
